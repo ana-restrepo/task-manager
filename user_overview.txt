@@ -1,0 +1,52 @@
+User Overview Report							Date generated: 19 Nov 2022
+
+	Total number of users on the system:	10
+	Total number of tasks on the system:	11
+
+------------------------------------------------------------------------------------------------------------------------
+	User: admin
+		Total number of tasks:										3
+		Percentage of all tasks assigned to user:					27.27%
+		Percentage of completed tasks from all assigned to user:	66.67%
+		Percentage of incomplete tasks:								33.33%
+		Percentage of overdue tasks:								0.0%
+------------------------------------------------------------------------------------------------------------------------
+	User: user1
+		Total number of tasks:										1
+		Percentage of all tasks assigned to user:					9.09%
+		Percentage of completed tasks from all assigned to user:	100.0%
+		Percentage of incomplete tasks:								0.0%
+		Percentage of overdue tasks:								0.0%
+------------------------------------------------------------------------------------------------------------------------
+	User: user2
+		Total number of tasks:										4
+		Percentage of all tasks assigned to user:					36.36%
+		Percentage of completed tasks from all assigned to user:	0.0%
+		Percentage of incomplete tasks:								100.0%
+		Percentage of overdue tasks:								25.0%
+------------------------------------------------------------------------------------------------------------------------
+	User: user3
+		This user has no tasks assigned.
+------------------------------------------------------------------------------------------------------------------------
+	User: user4
+		This user has no tasks assigned.
+------------------------------------------------------------------------------------------------------------------------
+	User: user5
+		This user has no tasks assigned.
+------------------------------------------------------------------------------------------------------------------------
+	User: admin2
+		Total number of tasks:										3
+		Percentage of all tasks assigned to user:					27.27%
+		Percentage of completed tasks from all assigned to user:	66.67%
+		Percentage of incomplete tasks:								33.33%
+		Percentage of overdue tasks:								0.0%
+------------------------------------------------------------------------------------------------------------------------
+	User: user6
+		This user has no tasks assigned.
+------------------------------------------------------------------------------------------------------------------------
+	User: admin3
+		This user has no tasks assigned.
+------------------------------------------------------------------------------------------------------------------------
+	User: user
+		This user has no tasks assigned.
+------------------------------------------------------------------------------------------------------------------------
